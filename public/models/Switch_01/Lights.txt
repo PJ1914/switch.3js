@@ -1,0 +1,47 @@
+Color HEX: E7AFA7
+
+
+
+Area.001
+Location
+X: -0.395729 m
+Y: -0.020474 m
+Z: 0.859245 m
+
+Rotation
+X: -180d
+Y: -92.517d
+Z: 123.167d
+
+
+
+
+
+
+Area.002
+Location
+X: -0.07245 m
+Y: -2.0776 m
+Z: 0.119404 m
+
+Rotation
+X: 87.3718d
+Y: 0
+Z: -1.99721d
+
+
+
+
+
+
+
+Area.034
+Location
+X: 3.59147 m
+Y: -2.47316 m
+Z: 2.96547 m
+
+Rotation
+X: -0.000004d
+Y: -66.2263d
+Z: 152.054d
